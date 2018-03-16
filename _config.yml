@@ -56,6 +56,9 @@ navs:
     href: /
     label: Home
 
+  -
+   href: /story.html
+   label: 故事
  # -
  #   href: /spring-boot.html
  #   label: Spring-Boot
