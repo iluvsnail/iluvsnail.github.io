@@ -59,6 +59,11 @@ navs:
   -
    href: /story.html
    label: 故事
+
+
+  -
+   href: /doubi-door.html
+   label: 逗比门
  # -
  #   href: /spring-boot.html
  #   label: Spring-Boot
