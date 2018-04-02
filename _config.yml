@@ -178,7 +178,7 @@ gitment:
 gitalk:
     owner: iluvsnail
     repo: blog-comments
-    clientID: 15e2994e45f36ee16dfe
-    clientSecret: abd241942e2116d281086cae18242c90e6cfe20e
+    clientID: 13f0a0835aefb8ada2f3
+    clientSecret: 7f6eab8aadf2f87b91b27790f74443d64835fd09
 # 在使用其它评论组件时可点击显示 Disqus
 lazy_load_disqus : true
