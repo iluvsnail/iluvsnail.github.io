@@ -180,5 +180,7 @@ gitalk:
     repo: blog-comments
     clientID: 13f0a0835aefb8ada2f3
     clientSecret: 7f6eab8aadf2f87b91b27790f74443d64835fd09
+    adminUser: iluvsnail
+    distractionFreeMode: true
 # 在使用其它评论组件时可点击显示 Disqus
 lazy_load_disqus : true
