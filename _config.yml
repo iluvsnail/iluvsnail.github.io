@@ -80,9 +80,9 @@ navs:
    # href: /link.html
     #label: Link
 
-  #-
-   # href: /about.html
-    #label: About
+  -
+   href: /about.html
+   label: About
 
 
 # labels. my blog key words
