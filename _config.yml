@@ -56,14 +56,18 @@ navs:
     href: /
     label: Home
 
-  -
-   href: /story.html
-   label: 故事
+ # -
+ # href: /story.html
+ #label: 故事
 
 
   -
    href: /doubi-door.html
    label: 逗比门
+
+  -
+   href: /tech.html
+   label: 技术
  # -
  #   href: /spring-boot.html
  #   label: Spring-Boot
