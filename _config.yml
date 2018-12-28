@@ -18,8 +18,8 @@ favicon: favicon.png
 repository: iluvsnail/iluvsnail.github.io
 github_url: https://github.com/iluvsnail
 cnblog_url: http://iluvsnail.blogspot.com
-url: http://www.chenyonglong.cf
-enforce_ssl: chenyonglong.cf
+url: https://iluvsnail.github.io
+enforce_ssl: github.io
 
 ## Gem
 gems:
