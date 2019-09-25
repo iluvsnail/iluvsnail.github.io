@@ -68,7 +68,9 @@ navs:
   -
    href: /tech.html
    label: 技术
-
+  -
+    href: /diary.html
+    label: 生活
  # -
  #   href: /spring-boot.html
  #   label: Spring-Boot
