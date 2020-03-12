@@ -71,6 +71,9 @@ navs:
   -
     href: /diary.html
     label: 生活
+  -
+    href: /complain.html
+    label: 牢骚
  # -
  #   href: /spring-boot.html
  #   label: Spring-Boot
